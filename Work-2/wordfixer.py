@@ -1,5 +1,5 @@
 
-##Program odev.txt dosyasından aldığı verileri özel karakter ve sayıları ayırarak temiz veriyi odevclr.txt adında dosya oluşturur ve yazdırır
+##Program odev.txt dosyasından aldığı verileri özel karakter ve sayılardan ayırarak temiz veriyi odevclr.txt adında bir dosyaya yazdırır.
 ##Daha önceden odevclr.txt adında bir dosyanızın varlığını kontrol ediniz aksi taktirde varolan verilenizi kaybedebilirsiniz.
 
 fs = open("odev.txt")
